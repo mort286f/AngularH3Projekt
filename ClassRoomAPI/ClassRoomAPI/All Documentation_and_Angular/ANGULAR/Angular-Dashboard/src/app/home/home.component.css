@@ -1,0 +1,10 @@
+.hero-image {
+    background-image: url("/assets/images/backgroundImage1.jpg");
+    background-color: #fff;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  

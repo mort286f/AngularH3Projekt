@@ -1,0 +1,16 @@
+<table class="center">
+    <tr>
+        <td>Id</td>
+        <td>Temperature</td>
+        <td>Temperature Comment</td>
+    </tr> 
+    
+    <!--Using ngFor to iterate over collections and async pipe for returning the latest value-->
+    <tr *ngFor="let result of allTemp|async"> 
+        <td>{{result.TempId}}</td>  
+        <td>{{result.Temp}}</td>  
+        <td>{{result.TempComment}}</td>     
+    </tr>      
+</table>  
+
+        

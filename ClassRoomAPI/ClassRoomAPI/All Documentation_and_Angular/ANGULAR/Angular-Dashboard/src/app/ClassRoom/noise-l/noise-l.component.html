@@ -1,0 +1,14 @@
+<table class="center">
+    <tr>
+        <td>Id</td>
+        <td>Noise Level</td>
+        <td>Noise Level Comment</td>
+    </tr>  
+    
+    <!--Using ngFor to iterate over collections and async pipe for returning the latest value-->
+    <tr *ngFor="let result of allNoise|async"> 
+        <td>{{result.NoiseId}}</td>  
+        <td>{{result.Noise}}</td>  
+        <td>{{result.NoiseComment}}</td>     
+    </tr>      
+</table>

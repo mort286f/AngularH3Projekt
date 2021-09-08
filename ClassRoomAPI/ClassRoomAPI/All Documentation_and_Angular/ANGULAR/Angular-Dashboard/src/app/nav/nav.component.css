@@ -1,0 +1,28 @@
+header {
+    background: rgb(38, 50, 97) !important;
+    }
+
+    nav {
+        justify-self: left;
+    }
+    
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    li {
+        float: left;
+    }
+            
+    .logo {
+        display: inline;
+        margin-right: 17% !important;
+    }
+
+    a {
+        padding: 1.0em 1.5em 0em 1.5em;
+        text-transform: uppercase;
+        font-size: 1em;
+    }

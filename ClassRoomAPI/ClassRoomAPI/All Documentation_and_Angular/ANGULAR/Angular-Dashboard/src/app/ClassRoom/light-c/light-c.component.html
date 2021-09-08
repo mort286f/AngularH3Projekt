@@ -1,0 +1,14 @@
+<table class="center">
+    <tr>
+        <td>Id</td>
+        <td>Light Condition</td>
+        <td>Light Condition Comment</td>
+    </tr>
+
+    <!--Using ngFor to iterate over collections and async pipe for returning the latest value-->
+    <tr *ngFor="let result of allLight|async"> 
+        <td>{{result.LightId}}</td>  
+        <td>{{result.Light}}</td>  
+        <td>{{result.LightComment}}</td>     
+    </tr>      
+</table>
