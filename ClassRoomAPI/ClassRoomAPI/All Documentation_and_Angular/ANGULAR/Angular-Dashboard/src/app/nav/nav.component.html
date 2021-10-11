@@ -9,9 +9,10 @@
           <li><a routerLink="/light-condition"><img class="logo" [src]="appMenuLight" height="50"/></a></li>
           <li><a routerLink="/noise-level"><img class="logo" [src]="appMenuNoise" height="50"/></a></li>
           <li><a routerLink="/contact"><img class="logo" [src]="appMenuContact" height="50"/></a></li>
+          <li><a (ngSubmit)="logOut()"></a>Log out</li>
         </ul>
       </nav>
     </div>
   </header>
 
-  
+

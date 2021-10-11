@@ -13,6 +13,11 @@ import { HttpClientModule } from '@angular/common/http';
 import { TempComponent } from './ClassRoom/temp/temp.component';
 import { LightCComponent } from './ClassRoom/light-c/light-c.component';
 import { NoiseLComponent } from './ClassRoom/noise-l/noise-l.component';
+import { LoginComponent } from './login/login.component';
+import { FormsModule } from '@angular/forms';
+import { CookieService } from 'ngx-cookie-service';
+//
+import { JwtHelperService, JWT_OPTIONS } from '@auth0/angular-jwt';
 
 @NgModule({
   declarations: [
@@ -26,13 +31,17 @@ import { NoiseLComponent } from './ClassRoom/noise-l/noise-l.component';
     TempComponent,
     LightCComponent,
     NoiseLComponent,
+    LoginComponent
   ],
   imports: [
     BrowserModule,
     HttpClientModule,
-    AppRoutingModule
+    AppRoutingModule,
+    FormsModule,
   ],
-  providers: [HttpClientModule],
+  providers: [HttpClientModule, CookieService,
+    {provide: JWT_OPTIONS, useValue: JWT_OPTIONS},
+    JwtHelperService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

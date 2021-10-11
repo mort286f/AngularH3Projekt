@@ -14,8 +14,7 @@ namespace ClassRoomAPI.Models
         [Key]
         public int NoiseId { get; set; }
         public int Noise { get; set; }
-
-        // Using the Required attribute to require that TempComment is not null!
+        // Using the Required attribute to require that NoiseComment is not null!
         // Using the Column attritute to Specific a particular Typenamt  - in this case to be nvarchar(255)!
         [Required]
         [Column(TypeName = "nvarchar(255)")]

@@ -6,15 +6,16 @@ import { TemperatureComponent } from './temperature/temperature.component';
 import { LightConditionComponent } from './light-condition/light-condition.component';
 import { NoiseLevelComponent } from './noise-level/noise-level.component';
 import { ContactComponent } from './contact/contact.component';
-import { TempComponent } from './ClassRoom/temp/temp.component';
+import { LoginComponent } from './login/login.component';
+import { AuthGuardService } from './ClassRoom/Service/auth-guard.service';
 
 const routes: Routes = [
   { path: '', component: HomeComponent },
-  { path: 'temperature', component: TemperatureComponent },
-  { path: 'light-condition', component: LightConditionComponent },
-  { path: 'noise-level', component: NoiseLevelComponent },
+  { path: 'temperature', component: TemperatureComponent, canActivate: [AuthGuardService] }, {path: 'temperature', redirectTo: 'login'},
+  { path: 'light-condition', component: LightConditionComponent, canActivate: [AuthGuardService] }, {path: 'light-condition', redirectTo: 'login'},
+  { path: 'noise-level', component: NoiseLevelComponent,canActivate: [AuthGuardService] }, {path: 'noise-level', redirectTo: 'login' },
   { path: 'contact', component: ContactComponent },
-  { path: 'temp', component: TempComponent},
+  { path: 'login', component: LoginComponent}
 ];
 
 @NgModule({

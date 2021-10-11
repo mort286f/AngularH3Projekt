@@ -1,0 +1,20 @@
+<p>login works!</p>
+<div class="col-md-12">
+  <div class="card card-container">
+    <form class="form-signin" #loginForm="ngForm" (ngSubmit)="onLogin()">
+      <div class="container-fluid">
+        <h2 class="form-signin-heading">Login</h2>
+        <div *ngIf="invalidLogin" class="alert-danger">Invalid login</div>
+        <br>
+        <label for="username" class="sr-only">Username</label>
+        <input type="text" id="username" name="username" [(ngModel)]="form.username" class="form-control" placeholder="Username" required autofocus>
+        <br>
+        <label for="password" class="sr-only">Password</label>
+        <input type="password" id="password" name="password" [(ngModel)]="form.password" class="form-control" placeholder="Password" required>
+      <br>
+      <button id="onLogin" class="btn btn-primary btn-block" type="submit">Login</button>
+      <button id="onRegister" class="btn btn-primary btn-block" type="button" (click)="onRegister()">Register</button>
+    </div>
+  </form>
+</div>
+</div>

@@ -18,4 +18,7 @@ export class NavComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  logOut(){
+    localStorage.removeItem("jwt");
+  }
 }

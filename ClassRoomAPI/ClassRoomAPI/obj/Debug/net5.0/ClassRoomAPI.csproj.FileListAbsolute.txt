@@ -140,3 +140,77 @@ C:\Users\Joxx0181\Desktop\projekt_H3\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\
 C:\Users\Joxx0181\Desktop\projekt_H3\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\All Documentation_and_Angular\ANGULAR\Angular-Dashboard\tsconfig.app.json
 C:\Users\Joxx0181\Desktop\projekt_H3\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\All Documentation_and_Angular\ANGULAR\Angular-Dashboard\tsconfig.json
 C:\Users\Joxx0181\Desktop\projekt_H3\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\All Documentation_and_Angular\ANGULAR\Angular-Dashboard\tsconfig.spec.json
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\All Documentation_and_Angular\ANGULAR\Angular-Dashboard\angular.json
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\All Documentation_and_Angular\ANGULAR\Angular-Dashboard\package-lock.json
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\All Documentation_and_Angular\ANGULAR\Angular-Dashboard\package.json
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\All Documentation_and_Angular\ANGULAR\Angular-Dashboard\tsconfig.app.json
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\All Documentation_and_Angular\ANGULAR\Angular-Dashboard\tsconfig.json
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\All Documentation_and_Angular\ANGULAR\Angular-Dashboard\tsconfig.spec.json
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\ClassRoomAPI.exe
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\ClassRoomAPI.deps.json
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\ClassRoomAPI.runtimeconfig.json
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\ClassRoomAPI.runtimeconfig.dev.json
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\ClassRoomAPI.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\ref\ClassRoomAPI.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\ClassRoomAPI.pdb
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\Castle.Windsor.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\obj\Debug\net5.0\ClassRoomAPI.csprojAssemblyReference.cache
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\obj\Debug\net5.0\ClassRoomAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\obj\Debug\net5.0\ClassRoomAPI.AssemblyInfoInputs.cache
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\obj\Debug\net5.0\ClassRoomAPI.AssemblyInfo.cs
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\obj\Debug\net5.0\ClassRoomAPI.csproj.CoreCompileInputs.cache
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\obj\Debug\net5.0\ClassRoomAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\obj\Debug\net5.0\ClassRoomAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\obj\Debug\net5.0\staticwebassets\ClassRoomAPI.StaticWebAssets.Manifest.cache
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\obj\Debug\net5.0\staticwebassets\ClassRoomAPI.StaticWebAssets.xml
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\obj\Debug\net5.0\scopedcss\bundle\ClassRoomAPI.styles.css
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\obj\Debug\net5.0\ClassRoomAPI.RazorTargetAssemblyInfo.cache
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\obj\Debug\net5.0\ClassRoomAPI.csproj.CopyComplete
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\obj\Debug\net5.0\ClassRoomAPI.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\obj\Debug\net5.0\ref\ClassRoomAPI.dll
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\obj\Debug\net5.0\ClassRoomAPI.pdb
+C:\Users\mort286f\Desktop\H3Projekt\AngularH3Projekt\ClassRoomAPI\ClassRoomAPI\obj\Debug\net5.0\ClassRoomAPI.genruntimeconfig.cache

@@ -14,7 +14,6 @@ namespace ClassRoomAPI.Models
         [Key]
         public int TempId { get; set; }
         public double Temp { get; set; }
-
         // Using the Required attribute to require that TempComment is not null!
         // Using the Column attritute to Specific a particular Typenamt  - in this case to be nvarchar(255)!
         [Required]
